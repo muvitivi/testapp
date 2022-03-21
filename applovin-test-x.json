@@ -1,6 +1,6 @@
 [ {
   "is_active" : true,
-  "top_banner" : true,
+  "top_banner" : false,
   "time_interval" : 130,
   "time_after_load" : 30,
   "id_banner" : "0ca08479dce2b2b7",
