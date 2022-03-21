@@ -1,5 +1,5 @@
 [ {
-  "is_active" : true,
+  "is_active" : false,
   "top_banner" : true,
   "time_interval" : 130,
   "time_after_load" : 100,
