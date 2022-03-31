@@ -1,0 +1,27 @@
+[ {
+  "note" : "ADMOB",
+  "id_adm" : "ca-app-pub-3940256099942544/1033173712",
+  "init_adm" : 10,
+  "pack_adm" : "",
+  "pe1_adm" : 60,
+  "pe2_adm" : 180,
+  "status_adm" : false,
+  
+  "note" : "IRONSOURCE",
+  "id_irc" : "fa723229",
+  "init_irc" : 60,
+  "pack_irc" : "",
+  "pe1_irc" : 160,
+  "pe2_irc" : 300,
+  "status_irc" : false,
+  
+  "note" : "UNITY ADS",
+  "id_una" : 3874087,
+  "init_una" : 30,
+  "name_una" : "video",
+  "pack_una" : "",
+  "pe1_una" : 60,
+  "pe2_una" : 360,
+  "status_una" : false,
+  "testMode_una" : false
+} ]
