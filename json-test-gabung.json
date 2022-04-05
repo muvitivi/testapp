@@ -9,9 +9,9 @@
   
   "note" : "IRONSOURCE",
   "id_irc" : "fa723229",
-  "init_irc" : 90,
+  "init_irc" : 60,
   "pack_irc" : "",
-  "pe1_irc" : 160,
+  "pe1_irc" : 360,
   "pe2_irc" : 300,
   "status_irc" : true,
   
