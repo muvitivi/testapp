@@ -12,7 +12,7 @@
   "init_irc" : 60,
   "pack_irc" : "",
   "pe1_irc" : 360,
-  "pe2_irc" : 300,
+  "pe2_irc" : 370,
   "status_irc" : true,
   
   "note" : "UNITY ADS",
@@ -21,7 +21,7 @@
   "name_una" : "video",
   "pack_una" : "",
   "pe1_una" : 360,
-  "pe2_una" : 360,
+  "pe2_una" : 370,
   "status_una" : true,
   "testMode_una" : true
 } ]
