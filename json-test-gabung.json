@@ -20,8 +20,8 @@
   "init_una" : 30,
   "name_una" : "video",
   "pack_una" : "",
-  "pe1_una" : 360,
-  "pe2_una" : 370,
+  "pe1_una" : 60,
+  "pe2_una" : 70,
   "status_una" : true,
   "testMode_una" : true
 } ]
