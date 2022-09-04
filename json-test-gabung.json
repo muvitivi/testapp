@@ -13,7 +13,7 @@
   "pack_irc" : "",
   "pe1_irc" : 60,
   "pe2_irc" : 70,
-  "status_irc" : false,
+  "status_irc" : true,
   
   "note" : "UNITY ADS",
   "id_una" : 101010100110011011100001101110110100011000001110000110111,
@@ -22,6 +22,6 @@
   "pack_una" : "",
   "pe1_una" : 60,
   "pe2_una" : 70,
-  "status_una" : false,
+  "status_una" : true,
   "testMode_una" : true
 } ]
