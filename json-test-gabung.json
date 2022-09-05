@@ -22,6 +22,6 @@
   "pack_una" : "",
   "pe1_una" : 60,
   "pe2_una" : 70,
-  "status_una" : false,
+  "status_una" : true,
   "testMode_una" : true
 } ]
