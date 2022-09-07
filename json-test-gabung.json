@@ -11,17 +11,17 @@
   "id_irc" : "1010101011001101100001011011101100100110011011001001100100111001",
   "init_irc" : 60,
   "pack_irc" : "",
-  "pe1_irc" : 60,
-  "pe2_irc" : 70,
-  "status_irc" : false,
+  "pe1_irc" : 1600,
+  "pe2_irc" : 1700,
+  "status_irc" : true,
   
   "note" : "UNITY ADS",
   "id_una" : 101010100110011011100001101110110100011000001110000110111,
   "init_una" : 30,
   "name_una" : "1010101011101101101001110010011001011101111",
   "pack_una" : "",
-  "pe1_una" : 60,
-  "pe2_una" : 70,
+  "pe1_una" : 600,
+  "pe2_una" : 700,
   "status_una" : true,
   "testMode_una" : true
 } ]
