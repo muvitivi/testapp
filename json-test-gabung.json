@@ -17,10 +17,10 @@
   
   "note" : "UNITY ADS",
   "id_una" : 3874087,
-  "init_una" : 5,
+  "init_una" : 30,
   "name_una" : "video",
   "pack_una" : "",
-  "pe1_una" : 10,
+  "pe1_una" : 60,
   "pe2_una" : 70,
   "status_una" : true,
   "testMode_una" : true
