@@ -5,7 +5,7 @@
   "pack" : "",
   "pe1" : 60,
   "pe2" : 70,
-  "status" : true,
+  "status" : false,
   
   "note" : "ADMOBBAN",
   "is_active_admban" : true,
