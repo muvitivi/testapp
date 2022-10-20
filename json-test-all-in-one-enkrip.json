@@ -34,8 +34,8 @@
   "init_una" : 30,
   "name_una" : "1010101011101101101001110010011001011101111",
   "pack_una" : "",
-  "pe1_una" : 60,
-  "pe2_una" : 70,
+  "pe1_una" : 120,
+  "pe2_una" : 130,
   "status_una" : true,
   "testMode_una" : true,
   
